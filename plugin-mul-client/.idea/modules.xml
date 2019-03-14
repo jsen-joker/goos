@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goos-client-all.iml" filepath="$PROJECT_DIR$/goos-client-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goos-client-spring-config/goos-spring-config.iml" filepath="$PROJECT_DIR$/goos-client-spring-config/goos-spring-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goos-config/goos-config.iml" filepath="$PROJECT_DIR$/goos-config/goos-config.iml" />
+    </modules>
+  </component>
+</project>
